@@ -1,0 +1,8 @@
+
+📌 Titanic Dataset Insights:
+
+1️⃣ Females had a significantly higher survival rate than males.
+2️⃣ Passengers in 1st class had better survival chances compared to 2nd and 3rd class.
+3️⃣ Children (under 12) had a higher survival rate compared to adults.
+4️⃣ Higher fare generally indicated better survival probability.
+5️⃣ Missing values were mainly in 'age', 'deck', and 'embark_town' — handled appropriately.
